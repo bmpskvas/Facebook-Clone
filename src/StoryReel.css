@@ -1,0 +1,9 @@
+.main {
+    /* display: grid;
+    grid-template-columns: auto auto auto; */
+    display: flex;
+    flex-flow: row;
+    width: fit-content;
+    /* background-color: red; */
+    /* overflow-y: auto; */
+}
