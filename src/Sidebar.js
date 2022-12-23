@@ -15,7 +15,7 @@ function Sidebar() {
 
   return (
     <div className="sidebar">
-        <SidebarRow src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" title="Piyush"/>
+        <SidebarRow src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" title="Khushi Bansal"/>
         <SidebarRow Icon={LocalHospitalIcon} title="COVID-19 Information Center"/>
         <SidebarRow Icon={EmojiFlagsIcon} title="Pages"/>
         <SidebarRow Icon={PeopleIcon} title="Friends"/>
