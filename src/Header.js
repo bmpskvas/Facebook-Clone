@@ -63,7 +63,7 @@ function Header() {
               {/* <Avatar src={user.photoURL}/>
               <h4>{user.displayName}</h4> */}
               <Avatar/>
-              <h4>Piyush</h4>
+              <h4>Khushi Bansal</h4>
           </div>
 
           <IconButton>
